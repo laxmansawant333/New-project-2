@@ -70,4 +70,4 @@ https://github.com/DeekshithSN/cheatsheet/blob/master/.bash_profile*
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch}` | Preview changes before merging |
-
+git rebase and git revert
